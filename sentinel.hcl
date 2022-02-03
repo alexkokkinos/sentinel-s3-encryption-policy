@@ -1,3 +1,3 @@
 policy "s3-encryption-policy" {
-  enforcement-level = "hard-mandatory"
+  enforcement_level = "hard-mandatory"
 }
